@@ -1,0 +1,95 @@
+stop,line,comuna_name,comuna_index,macrozona,municipality,muni_index,Lattitude,Longitude,type,transfer
+Bello,A,Bello-Comuna 03                    ,8,8,bello,3,6.337777778,-75.54444444,Metro,
+Palos verdes,L1,Manrique                           ,9,13,medellin,1,6.330277778,-75.55361111,Bus rapid transit,L1
+Gardel,L1,Manrique                           ,9,13,medellin,1,6.315833333,-75.55541667,Bus rapid transit,L1
+Manrique,L1,Manrique                           ,9,13,medellin,1,6.300277778,-75.55847222,Bus rapid transit,L1
+Las Esmeraldas,L1,Manrique                           ,9,13,medellin,1,6.290597,-75.564258,Bus rapid transit,L1
+Berlâ€™n,L1,Manrique                           ,9,13,medellin,1,6.278333333,-75.56944444,Bus rapid transit,L1
+Palos verdes,L2,Manrique                           ,9,13,medellin,1,6.269444444,-75.56583333,Bus rapid transit,L1
+Gardel,L2,Manrique                           ,9,13,medellin,1,6.263888889,-75.56333333,Bus rapid transit,L1
+Las Esmeraldas,L2,Manrique                           ,9,13,medellin,1,6.256944444,-75.56611111,Bus rapid transit,L1
+Berlâ€™n,L2,Manrique                           ,9,13,medellin,1,6.250277778,-75.56833333,Bus rapid transit,L1
+Andalucâ€™a,K,Santa Cruz                         ,13,33,medellin,1,6.247222222,-75.56972222,Cable,
+Niquâ€™a,A,Bello-Comuna 08                    ,15,36,bello,3,6.243055556,-75.57138889,Metro,
+La Aurora,J,Corregimiento San Cristobal        ,24,45,medellin,1,6.238611111,-75.57305556,Cable,
+Ayurâ€¡,A,Zona 01                            ,28,51,envigado,6,6.23,-75.57555556,Metro,
+Sabaneta,A,Urbana Sabaneta                    ,41,64,sabaneta,10,6.212222222,-75.57805556,Metro,
+La Estrella,A,Urbana Sabaneta                    ,41,64,la estrella,9,6.194166667,-75.58166667,Metro,
+Suramericana,B,Laureles-Estadio                   ,43,21,medellin,1,6.186111111,-75.58611111,Metro,
+Estadio,B,Laureles-Estadio                   ,43,21,medellin,1,6.174722222,-75.59694444,Metro,
+Floresta,B,Laureles-Estadio                   ,43,21,medellin,1,6.164188,-75.604362,Metro,
+Envigado,A,Itagui-Comuna 01                   ,44,23,envigado,6,6.157665,-75.616178,Metro,
+ItagÅ¸â€™,A,Itagui-Comuna 01                   ,44,23,itagui,8,6.152812,-75.625898,Metro,
+Fâ€¡tima,L1,Guayabal                           ,46,14,medellin,1,6.247222222,-75.56972222,Bus rapid transit,L2
+Nutibara,L1,Guayabal                           ,46,14,medellin,1,6.249166667,-75.57527778,Bus rapid transit,L2
+Fâ€¡tima,L2,Guayabal                           ,46,14,medellin,1,6.253055556,-75.58305556,Bus rapid transit,L1
+Nutibara,L2,Guayabal                           ,46,14,medellin,1,6.253333333,-75.58833333,Bus rapid transit,L1
+Industriales,L2,Guayabal                           ,46,14,medellin,1,6.258611111,-75.59777778,Bus rapid transit,L1
+Industriales,A,El Poblado                         ,47,12,medellin,1,6.258055556,-75.60375,Metro,
+Poblado,A,El Poblado                         ,47,12,medellin,1,6.256944444,-75.61388889,Metro,
+Aguacatala,A,El Poblado                         ,47,12,medellin,1,6.256944444,-75.61388889,Metro,
+Industriales,L1,El Poblado                         ,47,12,medellin,1,6.265694444,-75.61369444,Bus rapid transit,L2
+Universidad de Medellâ€™n,L1,Belen                              ,48,16,medellin,1,6.275361111,-75.61402778,Bus rapid transit,2
+Los Alpes,L1,Belen                              ,48,16,medellin,1,6.299166667,-75.61416667,Bus rapid transit,L2
+La Palma,L1,Belen                              ,48,16,medellin,1,6.300277778,-75.55847222,Bus rapid transit,L2
+Parque de BelÅ½n,L1,Belen                              ,48,16,medellin,1,6.296487,-75.55145,Bus rapid transit,L2
+Rosales,L1,Belen                              ,48,16,medellin,1,6.296866,-75.539136,Bus rapid transit,L2
+Universidad de Medellâ€™n,L2,Belen                              ,48,16,medellin,1,6.293424,-75.541276,Bus rapid transit,L1
+Los Alpes,L2,Belen                              ,48,16,medellin,1,6.293424,-75.541276,Bus rapid transit,L1
+La Palma,L2,Belen                              ,48,16,medellin,1,6.282007,-75.501683,Bus rapid transit,L1
+Parque de BelÅ½n,L2,Belen                              ,48,16,medellin,1,6.23354,-75.539472,Bus rapid transit,L1
+Rosales,L2,Belen                              ,48,16,medellin,1,6.236649,-75.535848,Bus rapid transit,L1
+Santa Lucâ€™a,B,La America                         ,49,18,medellin,1,6.235446,-75.532759,Metro,
+San Javier,B,San Javier                         ,50,22,medellin,1,6.247222222,-75.56972222,Metro,J
+San Javier,J,San Javier                         ,50,22,medellin,1,6.246704,-75.56617,Cable,B
+Juan XXIII,J,San Javier                         ,50,22,medellin,1,6.245857,-75.561865,Cable,
+University,A,Aranjuez                           ,51,17,medellin,1,6.24422,-75.557759,Metro,
+San Pedro,L1,Aranjuez                           ,51,17,medellin,1,6.241511,-75.553177,Bus rapid transit,
+Parque de Aranjuez,L1,Aranjuez                           ,51,17,medellin,1,6.242409,-75.549972,Bus rapid transit,L1
+San Pedro,L2,Aranjuez                           ,51,17,medellin,1,6.239258,-75.544864,Bus rapid transit,L1
+Manrique,L2,Aranjuez                           ,51,17,medellin,1,6.235727,-75.540782,Bus rapid transit,L1
+Parque de Aranjuez,L2,Aranjuez                           ,51,17,medellin,1,6.23354,-75.539472,Bus rapid transit,L1
+Acevedo,A,Castilla                           ,52,30,medellin,1,6.230555556,-75.60916667,Metro,K
+Tricentenario,A,Castilla                           ,52,30,medellin,1,6.231259,-75.604729,Metro,
+Caribe,A,Castilla                           ,52,30,medellin,1,6.231291,-75.600642,Metro,
+Acevedo,K,Castilla                           ,52,30,medellin,1,6.231547,-75.595803,Cable,A
+Vallejuelos,J,Robledo                            ,53,11,medellin,1,6.231702,-75.590811,Cable,
+Madera,A,Bello-Comuna 02                    ,58,28,medellin,1,6.231879,-75.5859,Metro,
+Bicentenario,T-A,Buenos Aires                       ,59,15,medellin,1,6.232042,-75.581619,Tramway,
+Buenos Aires,T-A,Buenos Aires                       ,59,15,medellin,1,6.230558,-75.575397,Tramway,
+Miraflores,T-A,Buenos Aires                       ,59,15,medellin,1,6.243675,-75.575375,Tramway,
+Hospital,A,La Candelaria                      ,60,19,medellin,1,6.249166667,-75.57527778,Metro,
+Prado,A,La Candelaria                      ,60,19,medellin,1,6.256228,-75.573013,Metro,
+Berrâ€™o Park,A,La Candelaria                      ,60,19,medellin,1,6.260859,-75.569056,Metro,
+San Antonio,A,La Candelaria                      ,60,19,medellin,1,6.264485,-75.567603,Metro,B
+Alpujarra,A,La Candelaria                      ,60,19,medellin,1,6.264062,-75.563179,Metro,
+Exposiciones,A,La Candelaria                      ,60,19,medellin,1,6.263699,-75.560068,Metro,
+San Antonio,B,La Candelaria                      ,60,19,medellin,1,6.262413,-75.555163,Metro,
+Cisneros,B,La Candelaria                      ,60,19,medellin,1,6.268249,-75.554793,Metro,
+San Antonio,T-A,La Candelaria                      ,60,19,medellin,1,6.273389,-75.553645,Tramway,B
+San Jose,T-A,La Candelaria                      ,60,19,medellin,1,6.278936,-75.552797,Tramway,
+Pabellon del Agua,T-A,La Candelaria                      ,60,19,medellin,1,6.283007,-75.552707,Tramway,
+Plaza Mayor,L1,La Candelaria                      ,60,19,medellin,1,6.286213,-75.555894,Bus rapid transit,
+Cisneros,L1,La Candelaria                      ,60,19,medellin,1,6.230555556,-75.60916667,Bus rapid transit,
+Minorista,L1,La Candelaria                      ,60,19,medellin,1,6.231137,-75.605042,Bus rapid transit,
+Chagualo,L1,La Candelaria                      ,60,19,medellin,1,6.227949,-75.601855,Bus rapid transit,
+Ruta N U de A,L1,La Candelaria                      ,60,19,medellin,1,6.232033,-75.597014,Bus rapid transit,
+Hospital,L1,La Candelaria                      ,60,19,medellin,1,6.232324,-75.591256,Bus rapid transit,L2
+Barrio Colombia,L2,La Candelaria                      ,60,19,medellin,1,6.23247,-75.586561,Bus rapid transit,
+Barrio San Diego,L2,La Candelaria                      ,60,19,medellin,1,6.232453,-75.581743,Bus rapid transit,
+Barrio Colâ€”n,L2,La Candelaria                      ,60,19,medellin,1,6.231595,-75.577502,Bus rapid transit,
+San Jose,L2,La Candelaria                      ,60,19,medellin,1,6.229466,-75.570885,Bus rapid transit,
+La Playa,L2,La Candelaria                      ,60,19,medellin,1,6.234586,-75.569984,Bus rapid transit,
+Catedral Metropolitana,L2,La Candelaria                      ,60,19,medellin,1,6.24055,-75.569919,Bus rapid transit,
+Prado,L2,La Candelaria                      ,60,19,medellin,1,6.24683,-75.566027,Bus rapid transit,A
+Hospital,L2,La Candelaria                      ,60,19,medellin,1,6.249923,-75.563881,Bus rapid transit,L1
+Oriente,H,Villa Hermosa                      ,61,20,medellin,1,6.253279,-75.562274,Cable,T-A
+Las Torres,H,Villa Hermosa                      ,61,20,medellin,1,6.257181,-75.566105,Cable,
+Villa Sierra,H,Villa Hermosa                      ,61,20,medellin,1,6.264062,-75.563179,Cable,
+Loyola,T-A,Villa Hermosa                      ,61,20,medellin,1,6.263614,-75.559896,Tramway,
+Alejandro Echavarria,T-A,Villa Hermosa                      ,61,20,medellin,1,6.26295,-75.553276,Tramway,
+Oriente,T-A,Villa Hermosa                      ,61,20,medellin,1,6.268324,-75.554901,Tramway,H
+Arvâ€™,L,Corregimiento Santa Elena          ,64,47,medellin,1,6.273219,-75.554192,Cable,
+Popular,K,Popular                            ,65,31,medellin,1,6.278936,-75.552797,Cable,
+Santo Domingo Savio,K,Popular                            ,65,31,medellin,1,6.283007,-75.552707,Cable,L
+Santo Domingo Savio,L,Popular                            ,65,31,medellin,1,6.286213,-75.555894,Cable,K
